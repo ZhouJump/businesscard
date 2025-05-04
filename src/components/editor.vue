@@ -56,6 +56,9 @@
             <div class="app-title">
                 码农名片生成器
             </div>
+            <a target="_blank" class="app-button" href="https://github.com/ZhouJump/businesscard">
+                GitHub  
+            </a>
             <a target="_blank" class="app-button" href="https://zhoujump.club">
                 更多项目  
             </a>
